@@ -16,7 +16,7 @@ Shoes.app(width: 800, height: 600) do
       #      :stroke => "#F00",
       #      :strokewidth => 3,
       #     )
-      image("http://www.hdwallpapersinn.com/wp-content/uploads/2013/09/Cute-Dog6.jpg", width: "100%")
+      background("http://www.hdwallpapersinn.com/wp-content/uploads/2013/09/Cute-Dog6.jpg", width: "100%")
     end
 
   keypress do |k|
